@@ -73,3 +73,5 @@ public class Magic8Ball {
         }
     }
 }
+
+//test github
